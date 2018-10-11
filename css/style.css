@@ -1,0 +1,44 @@
+body, th, td {
+  font-size: 18px;
+}
+
+body {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+#main {
+  text-align: center;
+}
+
+.marquee {
+  marquee-style: alternate;
+}
+
+table.tblctr {
+  margin: 0px auto;
+}
+
+table.tdleft td {
+  text-align: left
+}
+
+.txtgreen {
+  color: #00ff00;
+}
+
+.txtred {
+  color: #ff0000;
+}
+
+.txtblue {
+  color: #0000ff;
+}
+
+.txtyellow {
+  color: #ffff00;
+}
+
+.txta {
+  color: #00ffff;
+}
